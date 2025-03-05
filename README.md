@@ -78,14 +78,6 @@ The **Comprehensive Property Analyzer** is a tool that provides an in-depth asse
 3. It evaluates architectural style, exterior and roof conditions, and landscaping features.
 4. The system generates a final condition rating and property report.
 
-## Contributing
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create a new feature branch (`git checkout -b feature-branch`).
-3. Commit changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
 ## License
 This project is licensed under the MIT License.
 
